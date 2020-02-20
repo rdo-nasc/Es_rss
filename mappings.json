@@ -1,0 +1,27 @@
+{
+    "mappings": {
+        "properties": {
+            "title": {
+                "type": "text"
+            },
+            "date": {
+                "type": "date"
+            },
+            "link": {
+                "type": "text"
+            },
+            "author": {
+                "type": "text"
+            },
+            "publication": {
+                "type": "text"
+            },
+            "description": {
+                "type": "text"
+            },
+            "language": {
+                "type": "text"
+            }
+        }
+    }
+}
