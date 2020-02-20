@@ -1,2 +1,2 @@
 # Es_rss
-Lire des flux rss et les stocker dans un serveur elasticsearch
+Lire des flux rss et les vendre à un serveur elasticsearch
