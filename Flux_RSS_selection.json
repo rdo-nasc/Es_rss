@@ -1,4 +1,5 @@
 {
     "canard_pc" : "https://www.canardpc.com/feed",
-    "technologyreview" : "https://www.technologyreview.com/topnews.rss"
+    "technologyreview" : "https://www.technologyreview.com/topnews.rss",
+    "presse_citron":"https://www.presse-citron.net/feed/"
 }
