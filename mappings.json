@@ -5,42 +5,62 @@
     "mappings": {
         "properties": {
             "title": {
-                "type": "text"
+                "type": "text",
+                "fields": {
+                    "raw": {
+                        "type": "keyword",
+                        "ignore_above": 256
+                    }
+                }
             },
             "date": {
                 "type": "date"
             },
             "link": {
-                "type": "text"
+                "type": "text",
+                "fields": {
+                    "raw": {
+                        "type": "keyword",
+                        "ignore_above": 256
+                    }
+                }
             },
             "author": {
-                "type": "text"
+                "type": "text",
+                "fields": {
+                    "raw": {
+                        "type": "keyword",
+                        "ignore_above": 256
+                    }
+                }
             },
             "publication": {
-                "type": "text"
+                "type": "text",
+                "fields": {
+                    "raw": {
+                        "type": "keyword",
+                        "ignore_above": 256
+                    }
+                }
             },
             "description": {
-                "type": "text"
+                "type": "text",
+                "fields": {
+                    "raw": {
+                        "type": "keyword",
+                        "ignore_above": 256
+                    }
+                }
             },
             "language": {
-                "type": "text"
-            }
-        },
-        "dynamic_templates": [
-            {
-                "strings": {
-                    "match_mapping_type": "string",
-                    "mapping": {
-                        "type": "text",
-                        "fields": {
-                            "raw": {
-                                "type": "keyword",
-                                "ignore_above": 256
-                            }
-                        }
+                "type": "text",
+                "fields": {
+                    "raw": {
+                        "type": "keyword",
+                        "ignore_above": 256
                     }
                 }
             }
-        ]
+        }
     }
 }
