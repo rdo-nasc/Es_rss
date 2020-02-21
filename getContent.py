@@ -17,7 +17,9 @@ def getContent(file):
             if k in newsitem:
                 article[k] = p.sub ("",newsitem[k])
             if'summary_detail'in newsitem and 'language' in newsitem ['summary_detail']:   
-                article['language'] = newsitem['summary_detail']['language']
+                article['language'] = newsitem['summary_detail']['language'] if newsitem['summary_detail']['language'] else 'Inconnue'
+            else:
+                article['language'] = 'Inconnue'
             content.append(article)
     return content
 
