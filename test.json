@@ -1,0 +1,276 @@
+{
+    "canard_pc": [
+        {
+            "date": "2020-01-31T22:26:35+0100",
+            "title": "Canard PC n° 403",
+            "link": "https://www.canardpc.com/online/canard-pc-403",
+            "author": "ackboo",
+            "description": "",
+            "publication": "canard_pc",
+            "language": "fr"
+        },
+        {
+            "date": "2020-01-31T00:00:00+0100",
+            "title": "Les configs de Canard",
+            "link": "https://www.canardpc.com/403/les-configs-de-canard",
+            "author": "Dandu",
+            "description": "",
+            "publication": "canard_pc",
+            "language": "fr"
+        },
+        {
+            "date": "2020-01-20T21:17:31+0100",
+            "title": "Découvrez le Cri du lapin, la newsletter de Canard PC",
+            "link": "https://www.canardpc.com/online/decouvrez-cri-du-lapin-la-newsletter-de-canard-pc",
+            "author": "La Rédaction",
+            "description": "",
+            "publication": "canard_pc",
+            "language": "fr"
+        },
+        {
+            "date": "2020-01-02T11:00:47+0100",
+            "title": "Canard PC n° 402",
+            "link": "https://www.canardpc.com/online/canard-pc-402",
+            "author": "Izual",
+            "description": "",
+            "publication": "canard_pc",
+            "language": "fr"
+        },
+        {
+            "date": "2020-01-01T01:00:00+0100",
+            "title": "The armies in the shadows",
+            "link": "https://www.canardpc.com/402/armies-shadows",
+            "author": "Ellen Replay",
+            "description": "",
+            "publication": "canard_pc",
+            "language": "fr"
+        },
+        {
+            "date": "2020-01-01T00:00:00+0100",
+            "title": "La boîte à jambon",
+            "link": "https://www.canardpc.com/402/la-boite-jambon",
+            "author": "Ivan Le Fou",
+            "description": "",
+            "publication": "canard_pc",
+            "language": "fr"
+        },
+        {
+            "date": "2020-01-01T00:00:00+0100",
+            "title": "Alien Theory",
+            "link": "https://www.canardpc.com/402/alien-theory",
+            "author": "Noel Malware",
+            "description": "",
+            "publication": "canard_pc",
+            "language": "fr"
+        },
+        {
+            "date": "2020-01-01T00:00:00+0100",
+            "title": "Les configs de Canard",
+            "link": "https://www.canardpc.com/402/les-configs-de-canard",
+            "author": "Dandu",
+            "description": "",
+            "publication": "canard_pc",
+            "language": "fr"
+        },
+        {
+            "date": "2019-12-27T06:00:00+0100",
+            "title": "Le tour du gadget",
+            "link": "https://www.canardpc.com/402/tour-du-gadget",
+            "author": "Fishbone",
+            "description": "",
+            "publication": "canard_pc",
+            "language": "fr"
+        },
+        {
+            "date": "2019-12-22T16:23:32+0100",
+            "title": "CPC Hardware HS N°13",
+            "link": "https://www.canardpc.com/online/cpc-hardware-hs-ndeg13",
+            "author": "Dandu",
+            "description": "",
+            "publication": "canard_pc",
+            "language": "fr"
+        }
+    ],
+    "technologyreview": [
+        {
+            "date": "Tue, 23 Apr 2019 08:00:00 GMT",
+            "title": "The three challenges keeping cars from being fully autonomous",
+            "link": "https://www.technologyreview.com/s/613399/the-three-challenges-keeping-cars-from-being-fully-autonomous/",
+            "author": null,
+            "description": "Technical, regulatory, and business obstacles are still in the way of safe, useful, and affordable self-driving vehicles.",
+            "publication": "technologyreview",
+            "language": null
+        },
+        {
+            "date": "Fri, 19 Apr 2019 11:00:00 GMT",
+            "title": "Ready for 6G? How AI will shape the network of the future",
+            "link": "https://www.technologyreview.com/s/613338/ready-for-6g-how-ai-will-shape-the-network-of-the-future/",
+            "author": null,
+            "description": "With 5G networks rolling out around the world, engineers are turning their attention to the next incarnation.",
+            "publication": "technologyreview",
+            "language": null
+        },
+        {
+            "date": "Thu, 18 Apr 2019 11:00:00 GMT",
+            "title": "Landowners are earning millions for carbon cuts that may not occur",
+            "link": "https://www.technologyreview.com/s/613326/californias-cap-and-trade-program-may-vastly-overestimate-emissions-cuts/",
+            "author": null,
+            "description": "A new analysis finds California’s cap-and-trade program may vastly overestimate emissions reductions.",
+            "publication": "technologyreview",
+            "language": null
+        },
+        {
+            "date": "Fri, 05 Apr 2019 17:15:00 GMT",
+            "title": "Facebook’s ad-serving algorithm discriminates by gender and race",
+            "link": "https://www.technologyreview.com/s/613274/facebook-algorithm-discriminates-ai-bias/",
+            "author": null,
+            "description": "Even if an advertiser is well-intentioned, the algorithm still prefers certain groups of people over others.",
+            "publication": "technologyreview",
+            "language": null
+        },
+        {
+            "date": "Wed, 27 Feb 2019 12:00:00 GMT",
+            "title": "The race to make a lab-grown steak",
+            "link": "https://www.technologyreview.com/s/612925/the-race-to-grow-a-more-planet-friendly-burger/",
+            "author": null,
+            "description": "Meat production spews tons of greenhouse gas and uses up too much land and water. Is there an alternative that won’t make us do without?",
+            "publication": "technologyreview",
+            "language": null
+        },
+        {
+            "date": "Mon, 04 Mar 2019 13:50:00 GMT",
+            "title": "China’s Huawei has big ambitions to weaken the US grip on AI leadership",
+            "link": "https://www.technologyreview.com/s/612914/chinas-huawei-has-big-ambitions-to-weaken-the-uss-grip-on-ai-leadership/",
+            "author": null,
+            "description": "In spite of tensions with the US and its allies, Huawei is rapidly building a suite of AI offerings unmatched by any other company on the planet.",
+            "publication": "technologyreview",
+            "language": null
+        },
+        {
+            "date": "Wed, 27 Feb 2019 12:00:00 GMT",
+            "title": "A simple blood test to predict premature births could save babies’ lives",
+            "link": "https://www.technologyreview.com/s/612931/a-simple-blood-test-to-predict-premature-births-could-save-babies-lives/",
+            "author": null,
+            "description": "Complications from preterm birth are the leading cause of death worldwide in children under five.",
+            "publication": "technologyreview",
+            "language": null
+        },
+        {
+            "date": "Wed, 27 Feb 2019 12:00:00 GMT",
+            "title": "Bill Gates explains why we should all be optimists",
+            "link": "https://www.technologyreview.com/s/612924/bill-gates-explains-why-we-should-all-be-optimists/",
+            "author": null,
+            "description": "We sat down to talk about breakthrough technologies, China, \nand reasons to be cheerful with this issue’s guest editor.",
+            "publication": "technologyreview",
+            "language": null
+        },
+        {
+            "date": "Wed, 27 Feb 2019 12:00:00 GMT",
+            "title": "10 Breakthrough Technologies 2019, curated by Bill Gates",
+            "link": "https://www.technologyreview.com/lists/technologies/2019/",
+            "author": null,
+            "description": "We asked Gates to choose this year’s list of inventions that will change the world for the better.",
+            "publication": "technologyreview",
+            "language": null
+        },
+        {
+            "date": "Tue, 26 Feb 2019 10:00:00 GMT",
+            "title": "Why AI is a threat to democracy—and what we can do to stop it",
+            "link": "https://www.technologyreview.com/s/613010/why-ai-is-a-threat-to-democracyand-what-we-can-do-to-stop-it/",
+            "author": null,
+            "description": "Futurist and NYU professor Amy Webb on an impending artificial intelligence catastrophe—and why there’s still hope it can be averted.",
+            "publication": "technologyreview",
+            "language": null
+        },
+        {
+            "date": "Thu, 21 Feb 2019 15:20:00 GMT",
+            "title": "China’s CRISPR twins might have had their brains inadvertently enhanced",
+            "link": "https://www.technologyreview.com/s/612997/the-crispr-twins-had-their-brains-altered/",
+            "author": null,
+            "description": "New research suggests that a controversial gene-editing experiment to make children resistant to HIV may also have enhanced their ability to learn and form memories.",
+            "publication": "technologyreview",
+            "language": null
+        },
+        {
+            "date": "Wed, 20 Feb 2019 18:45:00 GMT",
+            "title": "The first privately funded trip to the moon is about to launch",
+            "link": "https://www.technologyreview.com/s/612987/the-first-privately-funded-trip-to-the-moon-is-about-to-launch/",
+            "author": null,
+            "description": "After failing to claim the Lunar X Prize (which, to be fair, everyone did), the Israeli firm SpaceIL could have a rover on lunar soil in a little over a month.",
+            "publication": "technologyreview",
+            "language": null
+        },
+        {
+            "date": "Sat, 16 Feb 2019 13:00:00 GMT",
+            "title": "The technology behind OpenAI’s fiction-writing, fake-news-spewing AI, explained",
+            "link": "https://www.technologyreview.com/s/612975/ai-natural-language-processing-explained/",
+            "author": null,
+            "description": "The language model can write like a human, but it doesn’t have a clue what it’s saying.",
+            "publication": "technologyreview",
+            "language": null
+        },
+        {
+            "date": "Fri, 15 Feb 2019 12:00:00 GMT",
+            "title": "AI is reinventing the way we invent",
+            "link": "https://www.technologyreview.com/s/612898/ai-is-reinventing-the-way-we-invent/",
+            "author": null,
+            "description": "The biggest impact of artificial intelligence will be to help humans make discoveries we couldn’t make on our own.",
+            "publication": "technologyreview",
+            "language": null
+        },
+        {
+            "date": "Mon, 07 Jan 2019 17:00:00 GMT",
+            "title": "Never mind killer robots—here are six real AI dangers to watch out for in 2019",
+            "link": "https://www.technologyreview.com/s/612689/never-mind-killer-robotshere-are-six-real-ai-dangers-to-watch-out-for-in-2019/",
+            "author": null,
+            "description": "Last year a string of controversies revealed a darker (and dumber) side to artificial intelligence.",
+            "publication": "technologyreview",
+            "language": null
+        },
+        {
+            "date": "Sun, 16 Dec 2018 12:00:00 GMT",
+            "title": "The Reunion: a new science-fiction story about surveillance in China",
+            "link": "https://www.technologyreview.com/s/612590/the-reunion-a-new-science-fiction-story-about-surveillance-in-china/",
+            "author": null,
+            "description": "Technology is making people unhinged and violent. Can an algorithm stop them?",
+            "publication": "technologyreview",
+            "language": null
+        },
+        {
+            "date": "Mon, 31 Dec 2018 11:59:00 GMT",
+            "title": "Seven New Year’s resolutions for Big Tech in 2019",
+            "link": "https://www.technologyreview.com/s/612685/seven-new-years-resolutions-for-big-tech-in-2019/",
+            "author": null,
+            "description": "2018 was a no good, very bad year for Silicon Valley. Here’s some of the things tech giants should commit to do next year to avoid a repeat performance.",
+            "publication": "technologyreview",
+            "language": null
+        },
+        {
+            "date": "Fri, 21 Dec 2018 12:00:00 GMT",
+            "title": "The day I tasted climate change",
+            "link": "https://www.technologyreview.com/s/612658/the-day-i-tasted-climate-change/",
+            "author": null,
+            "description": "Every one of us will have a moment when global warming gets personal.",
+            "publication": "technologyreview",
+            "language": null
+        },
+        {
+            "date": "Sat, 29 Dec 2018 11:59:00 GMT",
+            "title": "All the reasons 2018 was a breakout year for DNA data",
+            "link": "https://www.technologyreview.com/s/612688/all-the-reasons-2018-was-a-breakout-year-for-dna-data/",
+            "author": null,
+            "description": "Gene information on millions of people is revolutionizing how we predict disease, catch criminals, and find new drugs.",
+            "publication": "technologyreview",
+            "language": null
+        },
+        {
+            "date": "Wed, 19 Dec 2018 05:00:00 GMT",
+            "title": "How Google took on China—and lost",
+            "link": "https://www.technologyreview.com/s/612601/how-google-took-on-china-and-lost/",
+            "author": null,
+            "description": "It used to be that while Google wanted China, China really needed Google. Not any more.",
+            "publication": "technologyreview",
+            "language": null
+        }
+    ]
+}

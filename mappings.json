@@ -1,4 +1,7 @@
 {
+    "settings": {
+        "number_of_shards": 1
+    },
     "mappings": {
         "properties": {
             "title": {
@@ -22,6 +25,22 @@
             "language": {
                 "type": "text"
             }
-        }
+        },
+        "dynamic_templates": [
+            {
+                "strings": {
+                    "match_mapping_type": "string",
+                    "mapping": {
+                        "type": "text",
+                        "fields": {
+                            "raw": {
+                                "type": "keyword",
+                                "ignore_above": 256
+                            }
+                        }
+                    }
+                }
+            }
+        ]
     }
 }
